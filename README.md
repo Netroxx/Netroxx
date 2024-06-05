@@ -6,7 +6,7 @@
 
 
 
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header_aramuni.png?raw=true"/> >
+<img align="center" alt="Header" src="https://github.com/Netroxx/Netroxx/blob/main/R.jpg"/> >
 
 
 -----
