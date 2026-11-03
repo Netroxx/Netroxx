@@ -1,4 +1,4 @@
-<img align="center" alt="Header" src="https://github.com/Netroxx/Netroxx/blob/main/R.jpg"/> 
+<img align="center" alt="Header" src="https://github.com/Netroxx/Netroxx/blob/main/R.png"/> 
 
 -----
 
