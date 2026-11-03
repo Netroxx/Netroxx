@@ -11,7 +11,7 @@
 
 -----
 # 👋 Hello! Welcome to my Github profile.
-## My name is Pedro Marçal and my nickname is "Pedro"!
+## My name is Pedro Marçal
 
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante fascinado pelos desafios da Engenharia de Software na PUC Minas, e que busca amiudadamente aprender e contribuir para a comunidade. fiquei, com um pouco sobre mim e meu percurso acadêmico.
