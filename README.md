@@ -33,6 +33,54 @@ Welcome to my profile! 👋 I am a student fascinated by the challenges of Softw
 
 -----
 
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/fly-2.svg?raw=true"/>&nbsp;Places I've Visited:
+
+<div align="center">
+<table width="100%">
+<tr>
+  <td align="center">Brazil</td>
+  <td align="center">United States</td>
+  <td align="center">Canada</td>
+  <td align="center">Mexico</td>
+  <td align="center">Panama</td>
+  <td align="center">Portugal</td>
+  <td align="center">Norway</td>
+  <td align="center">Italy</td>
+  <td align="center">England</td>
+</tr>
+<tr>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/br.svg" alt="Brazil"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/us.svg" alt="United States"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/ca.svg" alt="Canada"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/mx.svg" alt="Mexico"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/pa.svg" alt="Panama"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/pt.svg" alt="Portugal"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/no.svg" alt="Norway"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/it.svg" alt="Italy"/>
+  </td>
+  <td align="center">
+    <img width="65" height="65" src="https://hatscripts.github.io/circle-flags/flags/gb-eng.svg" alt="England"/>
+  </td>
+</tr>
+</table>
+</div>
+-----
+
 ## Connect with Me:
 
 <div>
