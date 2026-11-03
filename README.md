@@ -25,13 +25,7 @@ Welcome to my profile! 👋 I am a student fascinated by the challenges of Softw
 - **Methodologies:** Scrum, Kanban
 - **Tools:** Git, GitHub, VS Code, Replit
 
------
 
-## Tools and Technologies
-
-<img loading="lazy" src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/9bd74ec6-24db-4c40-b2b4-fb89033f0039" width="40" height="40"/> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/f2df1111-11a9-4e3e-b3e4-6b578dc3a1c8" width="40" height="40"/> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/0e92a60b-953b-48f4-9a86-0bb51a52667b" width="40" height="40" /> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/35e24d20-a1e4-4486-bacf-c904da4f14c6" width="40" height="40" /> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/88ac7d7b-d0f9-46d6-8fce-13125d0506af" width="40" height="40"/> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/df39a846-4b91-4152-98ba-edacdcef62c4" width="40" height="40" /> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/2c1acbd3-c55f-471c-8f1f-6395de2515c1" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" /> <img src="https://github.com/mariaoliveira27/mariaoliveira27/assets/161609445/56d63c1f-270c-4ad5-a4f6-5cf171602f40" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-
------
 
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/fly-2.svg?raw=true"/>&nbsp;Places I've Visited:
 
@@ -80,7 +74,43 @@ Welcome to my profile! 👋 I am a student fascinated by the challenges of Softw
 </table>
 </div>
 
+<div>
 
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Languages and Tools:
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="8"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true" alt="Python"/></a></td>
+    <td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true" alt="C"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true" alt="JavaScript"/></a></td>
+    <td align="center"><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true" alt="HTML5"/></a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true" alt="CSS3"/></a></td>
+    <td align="center"><a href="https://react.dev/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true" alt="React"/></a></td>
+    <td align="center"><a href="https://getbootstrap.com/" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></a></td>
+    <td align="center"><a href="https://nodejs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true" alt="Node.js"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="8"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true" alt="MySQL"/></a></td>
+    <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mongodb.png?raw=true" alt="MongoDB"/></a></td>
+    <td align="center"><a href="https://docs.pytest.org/" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="Pytest"/></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true" alt="Git"/></a></td>
+    <td align="center"><a href="https://github.com/" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true" alt="VS Code"/></a></td>
+    <td align="center"><a href="https://replit.com/" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" alt="Replit"/></a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true" alt="Bash"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="8"></td>
+  </tr>
+</table>
+
+</div>
 ## Connect with Me:
 
 <div>
