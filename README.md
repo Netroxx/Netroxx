@@ -111,6 +111,93 @@ Welcome to my profile! 👋 I am a student fascinated by the challenges of Softw
 </table>
 
 </div>
+
+<div align="center">
+
+<!-- Top Languages Cards -->
+<table>
+  <tr>
+    <td align="center" colspan="3">📊 <b>Most Used Languages</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Netroxx&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=en&custom_title=Most+Used+Languages&langs_count=7" alt="Most Used Languages" width="350" loading="lazy" />
+    </td>
+    <td>
+      <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Netroxx&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=en&custom_title=Language+Distribution&langs_count=7" alt="Language Distribution" width="300" loading="lazy" />
+    </td>
+    <td>
+      <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Netroxx&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=en&custom_title=Languages+by+Bytes&langs_count=7" alt="Languages by Bytes" width="300" loading="lazy" />
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Stats & Streak -->
+<table>
+  <tr>
+    <td align="center" colspan="2">🔥 <b>GitHub Stats & Streak</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://helio-github-stats.vercel.app/api?username=Netroxx&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" />
+    </td>
+    <td>
+      <img alt="GitHub Streak" width="485px" src="https://streak-stats.demolab.com?user=Netroxx&theme=dark&locale=en&date_format=M%20j%5B%2C%20Y%5D"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Expandable Detailed Metrics Section -->
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;<b>See More Metrics</b></summary>
+<br />
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" colspan="3">:octocat: <b>Detailed GitHub Analytics</b></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img alt="GitHub Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netroxx&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Repos per Language" width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Netroxx&theme=github_dark"/>
+    </td>
+    <td align="center">
+      <img alt="Most Commit Language" width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Netroxx&theme=github_dark"/>
+    </td>
+    <td align="center">
+      <img alt="Productive Time" width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Netroxx&theme=github_dark&utcOffset=-3"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<!-- Optional WakaTime Section (Requires WakaTime account linked to Netroxx) -->
+<div align="center">
+<table>
+  <tr>
+    <td align="center" colspan="2">⌚ <a href="https://wakatime.com/@Netroxx"><b>WakaTime Stats</b></a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://helio-github-stats.vercel.app/api/wakatime?username=Netroxx&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=10&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
+    </td>
+    <td>
+      <img src="https://helio-github-stats.vercel.app/api/wakatime?username=Netroxx&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=10&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+</details>
+</div>
 ## Connect with Me:
 
 <div>
